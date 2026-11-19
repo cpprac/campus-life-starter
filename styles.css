@@ -4,33 +4,16 @@ html {
     font-size: 24px;
 }
 
+h1 { font-size: 1rem; }
+
+h2 { font-size: 0.7rem; }
+
+h3, nav { font-size: 0.6rem }
+
+p { font-size: 0.5rem; }
+
 /* class */
-.org-card {
-    background-color: teal;
-}
+.org-card { background-color: teal; }
 
 /* id */
-#events,
-#news {
-    text-align: center;
-}
-
-h1 {
-    font-size: 1rem;
-}
-
-h2 {
-    font-size: 0.7rem;
-}
-
-h3 {
-    font-size: 0.6rem
-}
-
-p {
-    font-size: 0.5rem;
-}
-
-nav {
-    font-size: 0.6rem;
-}
+#events, #news { text-align: center; }

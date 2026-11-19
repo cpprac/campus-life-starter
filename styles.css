@@ -1,0 +1,15 @@
+/* element */
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* class */
+.org-card {
+    background-color: teal;
+}
+
+/* id */
+#events,
+#news {
+    text-align: center;
+}
